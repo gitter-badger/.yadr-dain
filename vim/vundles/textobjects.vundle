@@ -1,0 +1,3 @@
+" These bundles introduce new textobjects into vim,
+" For example the Ruby one introduces the 'r' text object
+" such that 'var' gives you Visual Around Ruby

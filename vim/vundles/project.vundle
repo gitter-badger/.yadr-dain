@@ -1,0 +1,2 @@
+Bundle "scrooloose/nerdtree.git"
+Bundle "ctrlpvim/ctrlp.vim"

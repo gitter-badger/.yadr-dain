@@ -1,0 +1,3 @@
+Bundle 'jceb/vim-orgmode'
+Bundle 'christoomey/vim-tmux-runner'
+Bundle 'tpope/vim-speeddating'
